@@ -3,8 +3,9 @@
     background-color: darkgrey;
     border-color: black;
     height: 120px;
-    width: 100%;
-  top: 0;
+    width: 901px;
+    top: 0;
+    margin: 0 auto;
 }
 
 .logo{
@@ -30,5 +31,94 @@
   background-color: pink;
   border-color: black;
   height: 40px;
+  width: 100%;
+}
+
+.toptitle {
+  border: 2px solid;
+  background-color: darkgrey;
+  border-color: black;
+  height: 120px;
+  width: 100%;
+}
+
+.recipename {
+  border: 2px solid;
+  background-color: blue;
+  height: 70px;
+  width: 200px;
+  display: inline-block;
+}
+
+.print {
+  border: 2px solid;
+  background-color: white;
+  border-color: black;
+  height: 40px;
+  width: 50px;
+  margin-right: 0;
+  margin-left: 95%;
+}
+
+.pizza {
+  border: 2px solid;
+  background-color: darkgrey;
+  border-color: black;
+  height: 603px;
+  width: 901px;
+  margin: 0 auto;
+}
+
+.description {
+  border: 2px solid;
+  background-color: darkgrey;
+  border-color: black;
+  height: 120px;
+  width: 100%;
+}
+
+.paper {
+  border: 2px solid;
+  background-color: lightblue;
+  border-color: black;
+  height: 200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.recipe {
+  border: 2px solid;
+  background-color: white;
+  border-color: black;
+  height: 70px;
+  width: 100px;
+  display: inline-block;
+  margin: 0 auto;
+
+}
+
+.recipetwo {
+  border: 2px solid;
+  background-color: white;
+  border-color: black;
+  height: 70px;
+  width: 100px;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.bottomline{
+  border: 2px solid;
+  background-color: pink;
+  border-color: black;
+  height: 40px;
+  width: 100%;
+}
+
+.footer {
+  border: 2px solid;
+  background-color: darkgrey;
+  border-color: black;
+  height: 120px;
   width: 100%;
 }

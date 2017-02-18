@@ -1,7 +1,4 @@
 .nav {
-    border: 2px solid;
-    background-color: darkgrey;
-    border-color: black;
     height: 120px;
     width: 901px;
     top: 0;
@@ -9,9 +6,6 @@
 }
 
 .logo{
-  border: 1px solid;
-  background-color: white;
-  border-color: black;
   height: 45px;
   width: 42px;
   display: inline-block;
@@ -20,9 +14,7 @@
 
 .sitename{
     font-size: 20px;
-    border: 1px solid;
     font-family: 'Yellowtail', cursive;
-    background-color: white;
     height: 45px;
     width: 100px;
     display: inline-block;
@@ -51,17 +43,13 @@
 }
 
 .toptitle {
-  border: 2px solid;
-  background-color: darkgrey;
-  border-color: black;
   height: 120px;
   width: 901px;
   margin: 0 auto;
 }
 
 .recipename {
-  border: 2px solid;
-  background-color: blue;
+
   height: 70px;
   width: 240px;
   display: inline-block;
@@ -79,9 +67,6 @@
   margin-bottom: 0;
 }
 .print {
-  border: 0;
-  background-color: lightblue;
-  border-color: black;
   height: 10px;
   width: 40px;
   margin-right: 0;
@@ -142,9 +127,6 @@
 }
 
 .footer {
-  border: 2px solid;
-  background-color: darkgrey;
-  border-color: black;
   height: 120px;
   width: 901px;
   margin: 0 auto;
@@ -162,7 +144,6 @@ p {
 }
 
 .slogan{
-  border: 2px solid;
   height: 30px;
   width: 200px;
   font-size: 12px;
@@ -217,10 +198,18 @@ body {
   text-indent: 0;
 }
 .footicon{
-  border: 2px solid;
-  background-color: darkgrey;
-  border-color: black;
-  height: 20px;
-  width: 20px;
+  height: 31px;
+  width: 33px;
   margin: 0 auto;
+}
+.footnote{
+  height: 25px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+#footghost {
+  font-size: 10px;
+  text-indent: 0;
+  text-align: center;
 }

@@ -97,8 +97,6 @@
 }
 
 .recipe {
-  border: 0;
-  border-color: black;
   height: 170px;
   width: 250px;
   display: inline-block;

@@ -63,9 +63,10 @@
   border: 2px solid;
   background-color: blue;
   height: 70px;
-  width: 250px;
+  width: 240px;
   display: inline-block;
-  margin-top: 40px;
+  margin-top: 35px;
+  font-family: 'Anton', sans-serif;
 }
 #chocotitle{
   font-size: 30px;
@@ -171,4 +172,55 @@ p {
 
 body {
   margin:0px;
+}
+
+.girl {
+  height: 71px;
+  width: 68px;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.profile{
+  height: 60px;
+  width: 600px;
+  margin-left: 0;
+  display: inline-block;
+}
+#vanessa{
+  margin: 0 auto;
+  font-size: 30px;
+}
+#vanessaprofile{
+  margin: 0 auto;
+  font-size: 14px;
+  vertical-align: middle;
+  line-height: 60px;
+}
+.share {
+  border: 2px solid;
+  background-color: #bc7058;
+  border-color: black;
+  height: 50px;
+  width: 160px;
+  margin-left: 10;
+  display: inline-block;
+}
+
+#share{
+  color: white;
+  font-size: 15px;
+  margin: 0 auto;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+  text-indent: 0;
+}
+.footicon{
+  border: 2px solid;
+  background-color: darkgrey;
+  border-color: black;
+  height: 20px;
+  width: 20px;
+  margin: 0 auto;
 }
